@@ -13,7 +13,7 @@ root.render(
     <GptFlow
       projectId="your-project-id"
       publicKey="your-public-key"
-      projectUrl="https://gpt-flow-llm-api-05w2.onrender.com"
+      projectUrl=""
     >
       <App />
     </GptFlow>
